@@ -1,1 +1,1 @@
-# stacks
+# stacks & linked lists
